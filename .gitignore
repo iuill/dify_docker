@@ -1,0 +1,7 @@
+.env
+volumes/db/
+volumes/weaviate/
+volumes/ssrf_proxy/logs/
+volumes/ssrf_proxy/spool/
+volumes/redis/data/
+volumes/app/storage/
